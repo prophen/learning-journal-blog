@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -11,15 +12,21 @@
   </head>
   <body>
     <header>
-      <img src="images/logo.png" alt="Learning Journal Logo" class="logo" />
-      <h1>My learning journal</h1>
-      <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About Me</a></li>
-      </ul>
+      <div class="top-bar">
+        <div class="title">
+          <img src="images/logo.png" alt="Learning Journal Logo" class="logo" />
+          <h1>My learning journal</h1>
+        </div>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+        </ul>
+      </div>
       <div class="hero">
         <span class="hero-date">January 4, 2026</span>
-        <h2 class="hero-title">My new journey as a bootcamp student.</h2>
+        <h2 class="hero-title">
+          <a href="new-journey.html">My new journey as a bootcamp student.</a>
+        </h2>
         <p class="hero-summary">
           After several months of learning in the Frontend Developer Career
           Path, I've made the big jump over to the Bootcamp to get expert code
