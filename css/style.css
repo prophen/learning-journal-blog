@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("/fonts/SourceSansPro-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "SourceSansPro-Bold";
+  src: url("/fonts/SourceSansPro-Bold.otf") format("opentype");
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "SourceSansPro", sans-serif;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
