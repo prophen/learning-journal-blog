@@ -1,19 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Learning Journal Blog
+Solo project from the Responsive Design module on Scrimba's Fullstack Path.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<img width="1049" height="1617" alt="screenshot of learning journal app" src="https://github.com/user-attachments/assets/c3056d3c-b082-402d-bb81-188e4a343cac" />
+<img width="300" alt="screenshot of learning journal app mobile view" src="https://github.com/user-attachments/assets/2663465a-b578-4bea-8f04-31ed4b65d9b6" />
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
